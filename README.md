@@ -1,4 +1,4 @@
-  ### Hi there I'm Jaeyoon Lee 👋
+  ### Hi there I'm Jyoon Lee 👋
 
 <!--<div align=center>-->
 	
