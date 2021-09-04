@@ -5,21 +5,22 @@
 
 
 ### Tech Stack
+<div>
   <img src="https://img.shields.io/badge/Java%20-007396.svg?&style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=flat-square&logo=python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/springboot%20-6DB33F.svg?&style=flat-square&logo=springboot&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/scikit-learn?style=flat-square&logo=scikit-learn&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Git%20-F05032.svg?&style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker%20-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux%20-E95420.svg?&style=flat-square&logo=Linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />
-
+</div>
 
 ### Who Am I
 
