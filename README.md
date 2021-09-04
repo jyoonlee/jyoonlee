@@ -4,11 +4,11 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:2jyoons@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/jyoooonlee) 
 
-  <img align='right' src="https://github-readme-stats.vercel.app/api?username=jyoonlee" height="120"/>
-  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2jyoons" height="120"/>
 
 ### Tech Stack
 <div>
+  <img align='right' src="https://github-readme-stats.vercel.app/api?username=jyoonlee" height="100"/>
+  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2jyoons" height="100"/>
   <img src="https://img.shields.io/badge/Java%20-007396.svg?&style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=flat-square&logo=python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
