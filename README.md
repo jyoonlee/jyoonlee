@@ -12,11 +12,11 @@
   <img src="https://img.shields.io/badge/Java%20-007396.svg?&style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=flat-square&logo=python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/scikit-learn?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit-learn?style=flat-square&logo=scikit-learn&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Git%20-F05032.svg?&style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker%20-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white"/>
