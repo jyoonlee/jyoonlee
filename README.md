@@ -21,11 +21,11 @@
   <img src="https://img.shields.io/badge/Linux%20-E95420.svg?&style=flat-square&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />
+  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2jyoons">
 </div>
 
 ### Who Am I
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2jyoons">
 
 - 🌱 I’m currently learning `Spring`, `Vue.js`, `Algorithm`
 - 🥇 I majored in Software
