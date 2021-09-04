@@ -39,12 +39,12 @@
 - 💻 Emro, AI team intern (2020.07 ~ 2020.08)
 - 🧑 SSAFY(Samsung Software Academy For Youth) (2021.07 ~ now)
 
-  <img align='right' src="https://github-readme-stats.vercel.app/api?username=jyoonlee" height="165">
-
 ### What I Like
 
 - 📺 Youtube
 - 🔵 Mobile Game
 - 🐕 playing with my dog
+
+  <img align='right' src="https://github-readme-stats.vercel.app/api?username=jyoonlee" height="165">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=90)
