@@ -7,6 +7,7 @@
 
 ### Tech Stack
 <div>
+  <img align='right' src="https://github-readme-stats.vercel.app/api?username=jyoonlee" height="165">
   <img src="https://img.shields.io/badge/Java%20-007396.svg?&style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=flat-square&logo=python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -21,7 +22,6 @@
   <img src="https://img.shields.io/badge/Linux%20-E95420.svg?&style=flat-square&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />
-  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2jyoons">
 </div>
 
 ### Who Am I
@@ -39,7 +39,7 @@
 - 💻 Emro, AI team intern (2020.07 ~ 2020.08)
 - 🧑 SSAFY(Samsung Software Academy For Youth) (2021.07 ~ now)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=jyoonlee" height="165">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2jyoons">
 
 ### What I Like
 
