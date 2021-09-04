@@ -29,7 +29,7 @@
 - 🌱 I’m currently learning `Spring`, `Vue.js`, `Algorithm`
 - 🥇 I majored in Software
 - 🚅 I lived in Pyeongtaek in Korea 
-</div>
+
 ### Experience
 
 - 🎓 Gachon University, Software (2015.03 ~ 2021.08)
@@ -37,14 +37,11 @@
 - 👨‍💻 Research Activities in INC LAB (Advisor: Prof. Jaehyuk Choi) (2020.06 ~ 2021.06) 
 - 💻 Emro, AI team intern (2020.07 ~ 2020.08)
 - 🧑 SSAFY(Samsung Software Academy For Youth) (2021.07 ~ now)
-</div>
-### What I Like
 
+### What I Like
+  <img align='right' src="https://github-readme-stats.vercel.app/api?username=jyoonlee" height="165">
 - 📺 Youtube
 - 🔵 Mobile Game
 - 🐕 playing with my dog
-
-
-  <img align='right' src="https://github-readme-stats.vercel.app/api?username=jyoonlee" height="165">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=90)
