@@ -17,12 +17,12 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit-learn?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Git%20-F05032.svg?&style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker%20-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux%20-E95420.svg?&style=flat-square&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />
 </div>
 
 ### Who Am I
