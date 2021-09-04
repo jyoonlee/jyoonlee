@@ -46,3 +46,5 @@
 - 📺 Youtube
 - 🔵 Mobile Game
 - 🐕 playing with my dog
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=90)
