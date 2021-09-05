@@ -35,14 +35,14 @@
 - 🎓 Gachon University, Software (2015.03 ~ 2021.08)
 - 🌍 SK SUNNY, Volunteer (2016.04 ~ 2016.11)
 - ⏰ Release 'Save the time' application in Google app store (2020.05)
-- 👨‍💻 Research Activities in INC LAB (Advisor: Prof. Jaehyuk Choi) (2020.06 ~ 2021.06) 
 - 💻 Emro, AI team intern (2020.07 ~ 2020.08)
+- 👨‍💻 Research Activities in INC LAB (Advisor: Prof. Jaehyuk Choi) (2020.06 ~ 2021.06) 
 - 🧑 SSAFY 6th (Samsung Software Academy For Youth) (2021.07 ~ <b>now</b>)
 
 ### What I Like
 - 📺 Youtube
 - 🔵 Mobile Game
-- 🐕 playing with my dog
+- 🐕 Playing with my dog
 - 🛫 Travel anywhere
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=90)
