@@ -32,7 +32,7 @@
 - 💻 I wanna be Back-end developer
 
 ### Experience
-- 🎓 Gachon University, Software (2015.03 ~ 2021.08)
+- 🎓 Gachon University, dept. of Software (2015.03 ~ 2021.08)
 - 🌍 SK SUNNY, Volunteer (2016.04 ~ 2016.11)
 - ⏰ Release 'Save the time' application in Google app store (2020.05)
 - 💻 Emro, AI team intern (2020.07 ~ 2020.08)
