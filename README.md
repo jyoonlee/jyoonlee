@@ -27,7 +27,7 @@
 
 ### Who Am I
 - 🌱 I’m currently learning `Spring`, `Vue.js`, `Algorithm`
-- 🥇 I majored in Software
+- 🥇 I majored in Software (graduated cum laude 👨‍🎓)
 - 🚅 I lived in Pyeongtaek in Korea 
 - 💻 I wanna be Back-end developer
 
