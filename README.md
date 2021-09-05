@@ -34,6 +34,8 @@
 ### Experience
 - 🎓 Gachon University, dept. of Software (2015.03 ~ 2021.08)
 - 🌍 SK SUNNY, Volunteer (2016.04 ~ 2016.11)
+- 💪 Military service, Radio equipment operator (2017. 02 ~ 2018. 11)
+- 👬 Club activities in APPPLAY (2019.03 ~ 2019.11)
 - ⏰ Release 'Save the time' application in Google app store (2020.05)
 - 💻 Emro, AI team intern (2020.07 ~ 2020.08)
 - 👨‍💻 Research Activities in INC LAB (Advisor: Prof. Jaehyuk Choi) (2020.06 ~ 2021.06) 
