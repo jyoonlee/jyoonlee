@@ -43,6 +43,7 @@
 ### What I Like
 - 📺 Youtube
 - 🔵 Mobile Game
+- 🎁 Shopping
 - 🐕 Playing with my dog
 - 🛫 Travel anywhere
 
