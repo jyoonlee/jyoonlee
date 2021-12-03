@@ -25,7 +25,7 @@
 </div>
 
 ### Who Am I
-- 🌱 I’m currently learning `Spring`, `Front End(JQuery, Vue.js)`, `Datebase`, `Algorithm`
+- 🌱 I’m currently learning `Spring`, `Front End(JQuery, Vue.js)`, `Datebase(MySQL)`, `Algorithm`
 - 🥇 I majored in Software (graduated <b>cum laude</b> 👨‍🎓)
 - 🚅 I live in Pyeongtaek, Korea 
 - 💻 I wanna be Back-end developer
