@@ -39,7 +39,7 @@
 - 💻 Emro, AI team intern (2020.07 ~ 2020.08)
 - 👨‍💻 Research Activities at INC LAB (Advisor: Prof. Jaehyuk Choi) (2020.06 ~ 2021.06) 
 - 🧑 SSAFY 6th (Samsung Software Academy For Youth) (2021.07 ~ 2021.11)
-- 🏃‍♂️ Shinhan Bank, System developer (2022.01 ~ **now**) 
+- 🏃‍♂️ Shinhan Bank, Global banking system developer (2022.01 ~ **now**) 
 
 ### What I Like
 - 📺 Youtube
