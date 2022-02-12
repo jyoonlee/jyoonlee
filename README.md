@@ -27,8 +27,7 @@
 ### Who Am I
 - 🌱 I’m currently learning `Spring`, `Front End(JQuery, Vue.js)`, `Datebase(MySQL)`, `Algorithm`
 - 🥇 I majored in Software (graduated <b>cum laude</b> 👨‍🎓)
-- 🚅 I live in Pyeongtaek, Korea 
-- 💻 I wanna be Back-end developer
+- 🚅 I live in Seoul, Korea 
 
 ### Experience
 - 🎓 Gachon University, dept. of Software (2015.03 ~ 2021.08)
