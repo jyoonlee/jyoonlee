@@ -25,7 +25,7 @@
 </div>
 
 ### Who Am I
-- 🌱 I’m currently learning `Spring`, `Front End(JQuery, Vue.js)`, `Datebase(MySQL)`, `Algorithm`
+- 🌱 I'm currently working on developing a global banking system(Anti-Money Laundering part).
 - 🥇 I majored in Software (graduated <b>cum laude</b> 👨‍🎓)
 - 🚅 I live in Seoul, Korea 
 
